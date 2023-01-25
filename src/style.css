@@ -98,7 +98,7 @@ header>p {
 	align-items: flex-start;
 }
 .item.show:hover{
-	background-color: #1f1f1f;
+	background-color: #222222;
 }
 .item.show>img {
 	width: 0;
@@ -192,7 +192,7 @@ header>p {
 	padding: 3px;
 }
 .dropdown-content-tag a:hover{
-	background-color: #1f1f1f;
+	background-color: #222222;
 }
 .dropdown-tag:hover .dropdown-content-tag{
 	display: block;
@@ -230,7 +230,7 @@ header>p {
 	padding: 3px;
 }
 .dropdown-content-sort a:hover{
-	background-color: #1f1f1f;
+	background-color: #222222;
 	
 }
 .dropdown-sort:hover .dropdown-content-sort{
